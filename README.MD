@@ -15,5 +15,6 @@ Tools: SQL • Python • Tableau • Google Sheets
 - Links: Dashboard (TBD)
 
 ## Contact
-- LinkedIn: (paste link)
-- Email: (paste email)
+- LinkedIn: (http://linkedin.com/in/rosnandaarifap)
+- Email: (rosnandaarifa@gmail.com
+)
